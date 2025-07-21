@@ -4,7 +4,7 @@
 <p align="center">
 
 ![Build](https://img.shields.io/badge/build-stable-brightgreen?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-linux-blue?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/denoyey/Convex?style=flat-square)
 ![Language](https://img.shields.io/github/languages/top/denoyey/Convex?style=flat-square)
 ![Technologies](https://img.shields.io/badge/technologies-Python-yellow?style=flat-square)
