@@ -93,10 +93,8 @@ Licensed under the <a href="">MIT License</a>
 <br />
 
 ## 🙌 Acknowledgements
-Built with care by <a href="github.com/denoyey">@denoyey</a>
-<br />
-© 2025 – All Rights Reserved.
+Built with care by <a href="github.com/denoyey">@denoyey</a> || © 2025 – All Rights Reserved.
 
 <br />
 
-badge visitor
+![](https://api.visitorbadge.io/api/VisitorHit?user=denoyeyf&repo=Convex-badge&countColor=%237B1E7A)
