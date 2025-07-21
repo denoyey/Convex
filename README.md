@@ -2,7 +2,7 @@
 
 **Convex** is a lightweight and efficient command-line tool to **convert CSV, Excel, and JSON files** easily. It supports drag-and-drop, multi-sheet Excel handling, encoding detection, and maintains a recent file history.
 
-
+<br />
 ## 🛠️ Features
 
 * ✅ Convert **CSV → Excel (.xlsx)**
