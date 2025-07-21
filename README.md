@@ -94,6 +94,7 @@ python convex.py
 python3 convex.py
 ```
 > 💡 You can drag and drop files or folders into the terminal when prompted.
+> <br />
 > 📁 The tool will automatically preview data and help you choose an output location.
 
 <br />
