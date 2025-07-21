@@ -15,11 +15,13 @@
 * ✅ Encoding detection with `chardet`
 * ✅ History of recent files used
 
+<br />
 
 ## 📸 Screenshot
 
 ![convex](https://github.com/denoyey/Convex/blob/21c4f0364919a85dfa5e11d65a736198eb1a51fa/img/convex.png)
 
+<br />
 
 ## ⚙️ Installation
 
@@ -48,6 +50,7 @@ pip install -r requirements.txt --break-system-packages
 - openpyxl
 - termcolor
 
+<br />
 
 ## 🚀 Usage
 #### To run Convex, use the following command:
@@ -64,6 +67,7 @@ python3 convex.py
 > 💡 You can drag and drop files or folders into the terminal when prompted.
 > 📁 The tool will automatically preview data and help you choose an output location.
 
+<br />
 
 ## 🧠 Tech Stack
 - Python 3.7+
@@ -72,6 +76,7 @@ python3 convex.py
 - Termcolor
 - Chardet
 
+<br />
 
 ## 🖥️ Platform Support
 - ✅ Windows
@@ -80,14 +85,18 @@ python3 convex.py
 
 ###### <i>(Note: Tab auto-completion works best on UNIX systems.)</i>
 
+<br />
 
 ## 🧾 License
 Licensed under the <a href="">MIT License</a>
 
+<br />
 
 ## 🙌 Acknowledgements
 Built with care by <a href="github.com/denoyey">@denoyey</a>
+<br />
 © 2025 – All Rights Reserved.
 
+<br />
 
 badge visitor
