@@ -1,46 +1,100 @@
-## 📄 FileConversionTools
-FileConversionTools is a simple and efficient tool that helps you convert files between various formats. It streamlines the process of transforming data, making it easier to manage and work with different file types.
+## 📄 Convex – File Conversion Toolkit
+
+**Convex** is a lightweight and efficient command-line tool to **convert CSV, Excel, and JSON files** easily. It supports drag-and-drop, multi-sheet Excel handling, encoding detection, and maintains a recent file history.
 
 <br>
 
 ## 🛠️ Features
-<ul>
-    <li>CSV to EXCEL</li>
-    <li>JSON to CSV</li>
-    <li>EXCEL to CSV</li>
-    <li>CSV o JSON</li>
-</ul>
+
+* ✅ Convert **CSV → Excel (.xlsx)**
+* ✅ Convert **JSON → CSV**
+* ✅ Convert **Excel (.xls/.xlsx) → CSV**
+* ✅ Convert **CSV → JSON**
+* ✅ Convert **Excel Multi-Sheet → CSV (auto split)**
+* ✅ Drag-and-drop support
+* ✅ Encoding detection with `chardet`
+* ✅ History of recent files used
 
 <br>
 
 ## 📸 Screenshot
+
 ![py-compile](https://github.com/denoyey/FileConversionTools/blob/4d7c95091bc011ea06e9ee988b187e78c90f68f1/img/FileConversionTools.png)
 
 <br>
 
 ## ⚙️ Installation
-#### STEP 1
-```sh
-git clone https://github.com/denoyey/FileConversionTools.git
+
+#### STEP 1 – Clone Repository
+
+```bash
+git clone https://github.com/denoyey/Convex.git
 ```
-#### STEP 2
-```sh
-cd FileConversionTools
+
+#### STEP 2 – Move to Project Folder
+
+```bash
+cd Convex
 ```
+
+#### STEP 3 – Install Dependencies
+
+```bash
+pip install -r requirements.txt --break-system-packages
+```
+
+##### Dependencies include:
+- pandas
+- chardet
+- xlrd
+- openpyxl
+- termcolor
 
 <br>
 
-## 🔥 Usage
-<p>To use <a href="https://github.com/denoyey/FileConversionTools">FileConversionTools</a>, run the following command:</p>
+## 🚀 Usage
+#### To run Convex, use the following command:
 
-```sh
-python convert.py 
+```bash
+python convex.py
 ```
-> OR
-```sh
-python3 convert.py 
+
+#### Or, if you're using Python 3 explicitly:
+
+```bash
+python3 convex.py
 ```
+> 💡 You can drag and drop files or folders into the terminal when prompted.
+> 📁 The tool will automatically preview data and help you choose an output location.
+
+<br>
+
+## 🧠 Tech Stack
+- Python 3.7+
+- Pandas
+- OpenPyXL / xlrd
+- Termcolor
+- Chardet
+
+<br>
+
+## 🖥️ Platform Support
+- ✅ Windows
+- ✅ macOS
+- ✅ Linux
+<i>(Note: Tab auto-completion works best on UNIX systems.)</i>
+
+<br>
+
+## 🧾 License
+Licensed under the <a href="">MIT License</a>
+
+<br>
+
+## 🙌 Acknowledgements
+Built with care by <a href="github.com/denoyey">@denoyey</a>
+© 2025 – All Rights Reserved.
 
 <br><br>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=denoyeyf&repo=FileConversionTools-badge&countColor=%237B1E7A)
+badge visitor
