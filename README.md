@@ -112,8 +112,7 @@ python3 convex.py
 - ✅ Windows
 - ✅ macOS
 - ✅ Linux
-
-###### <i>(Note: Tab auto-completion works best on UNIX systems.)</i>
+- <i>(Note: Tab auto-completion works best on UNIX systems.)</i>
 
 <br />
 
