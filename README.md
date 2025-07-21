@@ -19,7 +19,8 @@
 
 ## 📸 Screenshot
 
-![py-compile](https://github.com/denoyey/FileConversionTools/blob/4d7c95091bc011ea06e9ee988b187e78c90f68f1/img/FileConversionTools.png)
+![py-compile]([https://github.com/denoyey/Convex/blob/21c4f0364919a85dfa5e11d65a736198eb1a51fa/img/convex.png])
+
 
 <br>
 
@@ -82,6 +83,7 @@ python3 convex.py
 - ✅ Windows
 - ✅ macOS
 - ✅ Linux
+<br>
 <i>(Note: Tab auto-completion works best on UNIX systems.)</i>
 
 <br>
