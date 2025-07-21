@@ -17,6 +17,20 @@
 
 <br />
 
+## 📚 Table of Contents
+
+- [📄 Convex – File Conversion Toolkit](#-convex--file-conversion-toolkit)
+- [🛠️ Features](#️-features)
+- [📸 Screenshot](#-screenshot)
+- [⚙️ Installation](#-installation)
+- [🚀 Usage](#-usage)
+- [🧠 Tech Stack](#-tech-stack)
+- [🖥️ Platform Support](#️-platform-support)
+- [🧾 License](#-license)
+- [🙌 Acknowledgements](#-acknowledgements)
+
+<br />
+
 ## 🛠️ Features
 
 * ✅ Convert **CSV → Excel (.xlsx)**
