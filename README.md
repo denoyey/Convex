@@ -19,7 +19,7 @@
 
 ## 📸 Screenshot
 
-![convex](https://github.com/denoyey/Convex/blob/21c4f0364919a85dfa5e11d65a736198eb1a51fa/img/convex.png?raw=true)
+![convex](https://github.com/denoyey/Convex/blob/21c4f0364919a85dfa5e11d65a736198eb1a51fa/img/convex.png)
 
 <br>
 
