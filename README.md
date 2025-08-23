@@ -1,3 +1,5 @@
+<div align="center">
+
 # 📄 Convex – File Conversion Toolkit
 
 **Convex** is a lightweight and efficient command-line tool to **convert CSV, Excel, and JSON files** easily. It supports drag-and-drop, multi-sheet Excel handling, encoding detection, and maintains a recent file history.
@@ -16,6 +18,8 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=denoyeyf&repo=Convex-badge&countColor=%237B1E7A)
   
 </p>
+
+</div>
 
 <br />
 
